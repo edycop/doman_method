@@ -1,0 +1,7 @@
+Rename .env_example file to .env and put there the correct values
+
+
+## TODO
+
+* Adding more Internet source where to download stories.
+* In gutenberg.org downloaded files delete credits from file before being processed by SpaCy
